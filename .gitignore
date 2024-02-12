@@ -1,0 +1,8 @@
+# Ignore everything in the directory
+*
+
+# Except for specific files
+!.gitignore
+!Makefile
+!llist.c
+!llist.h
